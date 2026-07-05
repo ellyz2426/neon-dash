@@ -1,0 +1,5 @@
+<text name="hud-score" fontSize="12" fontWeight="bold" color="#00ffff" textAlign="left">Score: 0</text>
+<text name="hud-progress" fontSize="10" color="#ffcc00" textAlign="center">0%</text>
+<text name="hud-attempts" fontSize="10" color="#ff8800" textAlign="right">Attempt: 1</text>
+<text name="hud-mode" fontSize="8" color="#88cccc" textAlign="left">Campaign</text>
+<text name="hud-level" fontSize="8" color="#88cccc" textAlign="right">Level 1</text>

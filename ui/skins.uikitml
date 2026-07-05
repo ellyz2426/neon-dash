@@ -1,0 +1,10 @@
+<text name="skins-title" fontSize="18" fontWeight="bold" color="#ff00ff" textAlign="center">CUBE SKINS</text>
+<text name="skin-1" fontSize="9" color="#00ffff" backgroundColor="#003333" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#005555' }} cursor="pointer">Neon Cyan [E]</text>
+<text name="skin-2" fontSize="9" color="#ff8800" backgroundColor="#331100" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#553300' }} cursor="pointer">Solar Flare</text>
+<text name="skin-3" fontSize="9" color="#ff00ff" backgroundColor="#330033" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#550055' }} cursor="pointer">Plasma Pink</text>
+<text name="skin-4" fontSize="9" color="#00ccff" backgroundColor="#002233" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#004455' }} cursor="pointer">Frost Blue</text>
+<text name="skin-5" fontSize="9" color="#88ff00" backgroundColor="#223300" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#445500' }} cursor="pointer">Toxic Green</text>
+<text name="skin-6" fontSize="9" color="#ffcc00" backgroundColor="#332200" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#554400' }} cursor="pointer">Royal Gold</text>
+<text name="skin-7" fontSize="9" color="#8800ff" backgroundColor="#220044" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#440066' }} cursor="pointer">Void Purple</text>
+<text name="skin-8" fontSize="9" color="#ff4400" backgroundColor="#331100" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#553300' }} cursor="pointer">Inferno</text>
+<text name="btn-skins-back" fontSize="12" color="#aaaaaa" backgroundColor="#222222" backgroundOpacity="0.8" borderRadius="5" padding="6" textAlign="center" hover={{ backgroundColor: '#444444' }} cursor="pointer">BACK</text>

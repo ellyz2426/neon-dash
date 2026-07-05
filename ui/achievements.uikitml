@@ -1,0 +1,20 @@
+<text name="ach-title" fontSize="18" fontWeight="bold" color="#ff8800" textAlign="center">ACHIEVEMENTS</text>
+<text name="ach-1" fontSize="8" color="#88cccc" textAlign="left">[ ] ---</text>
+<text name="ach-2" fontSize="8" color="#88cccc" textAlign="left">[ ] ---</text>
+<text name="ach-3" fontSize="8" color="#88cccc" textAlign="left">[ ] ---</text>
+<text name="ach-4" fontSize="8" color="#88cccc" textAlign="left">[ ] ---</text>
+<text name="ach-5" fontSize="8" color="#88cccc" textAlign="left">[ ] ---</text>
+<text name="ach-6" fontSize="8" color="#88cccc" textAlign="left">[ ] ---</text>
+<text name="ach-7" fontSize="8" color="#88cccc" textAlign="left">[ ] ---</text>
+<text name="ach-8" fontSize="8" color="#88cccc" textAlign="left">[ ] ---</text>
+<text name="ach-9" fontSize="8" color="#88cccc" textAlign="left">[ ] ---</text>
+<text name="ach-10" fontSize="8" color="#88cccc" textAlign="left">[ ] ---</text>
+<text name="ach-11" fontSize="8" color="#88cccc" textAlign="left">[ ] ---</text>
+<text name="ach-12" fontSize="8" color="#88cccc" textAlign="left">[ ] ---</text>
+<text name="ach-13" fontSize="8" color="#88cccc" textAlign="left">[ ] ---</text>
+<text name="ach-14" fontSize="8" color="#88cccc" textAlign="left">[ ] ---</text>
+<text name="ach-15" fontSize="8" color="#88cccc" textAlign="left">[ ] ---</text>
+<text name="ach-page" fontSize="8" color="#ffcc00" textAlign="center">Page 1/3</text>
+<text name="btn-ach-prev" fontSize="10" color="#aaaaaa" backgroundColor="#222222" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#444444' }} cursor="pointer">PREV</text>
+<text name="btn-ach-next" fontSize="10" color="#aaaaaa" backgroundColor="#222222" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#444444' }} cursor="pointer">NEXT</text>
+<text name="btn-ach-back" fontSize="12" color="#aaaaaa" backgroundColor="#222222" backgroundOpacity="0.8" borderRadius="5" padding="6" textAlign="center" hover={{ backgroundColor: '#444444' }} cursor="pointer">BACK</text>

@@ -1,0 +1,12 @@
+<text name="lb-title" fontSize="18" fontWeight="bold" color="#ffcc00" textAlign="center">LEADERBOARD</text>
+<text name="lb-r1" fontSize="9" color="#ffcc00" textAlign="center">1. ---</text>
+<text name="lb-r2" fontSize="9" color="#cccccc" textAlign="center">2. ---</text>
+<text name="lb-r3" fontSize="9" color="#cc8844" textAlign="center">3. ---</text>
+<text name="lb-r4" fontSize="9" color="#88cccc" textAlign="center">4. ---</text>
+<text name="lb-r5" fontSize="9" color="#88cccc" textAlign="center">5. ---</text>
+<text name="lb-r6" fontSize="9" color="#88cccc" textAlign="center">6. ---</text>
+<text name="lb-r7" fontSize="9" color="#88cccc" textAlign="center">7. ---</text>
+<text name="lb-r8" fontSize="9" color="#88cccc" textAlign="center">8. ---</text>
+<text name="lb-r9" fontSize="9" color="#88cccc" textAlign="center">9. ---</text>
+<text name="lb-r10" fontSize="9" color="#88cccc" textAlign="center">10. ---</text>
+<text name="btn-lb-back" fontSize="12" color="#aaaaaa" backgroundColor="#222222" backgroundOpacity="0.8" borderRadius="5" padding="6" textAlign="center" hover={{ backgroundColor: '#444444' }} cursor="pointer">BACK</text>

@@ -1,0 +1,18 @@
+<text name="help-title" fontSize="18" fontWeight="bold" color="#aaaaaa" textAlign="center">HOW TO PLAY</text>
+<text name="help-1" fontSize="8" color="#88cccc" textAlign="left">BROWSER: Space/Click = Jump</text>
+<text name="help-2" fontSize="8" color="#88cccc" textAlign="left">  Up Arrow = Jump</text>
+<text name="help-3" fontSize="8" color="#88cccc" textAlign="left">  ESC/P = Pause</text>
+<text name="help-4" fontSize="8" color="#88cccc" textAlign="left">  R = Restart</text>
+<text name="help-5" fontSize="8" color="#00ffcc" textAlign="left">VR: Trigger = Jump</text>
+<text name="help-6" fontSize="8" color="#00ffcc" textAlign="left">  A = Jump</text>
+<text name="help-7" fontSize="8" color="#00ffcc" textAlign="left">  B = Pause</text>
+<text name="help-8" fontSize="8" color="#ffcc00" textAlign="left">GAMEPLAY:</text>
+<text name="help-9" fontSize="8" color="#88cccc" textAlign="left">  Cube auto-runs right</text>
+<text name="help-10" fontSize="8" color="#88cccc" textAlign="left">  Jump to avoid spikes/gaps</text>
+<text name="help-11" fontSize="8" color="#88cccc" textAlign="left">  Collect orbs for points</text>
+<text name="help-12" fontSize="8" color="#88cccc" textAlign="left">  Hit pads for special jumps</text>
+<text name="help-13" fontSize="8" color="#88cccc" textAlign="left">  Gravity pads flip gravity</text>
+<text name="help-14" fontSize="8" color="#ffcc00" textAlign="left">MODES: Campaign, Endless,</text>
+<text name="help-15" fontSize="8" color="#ffcc00" textAlign="left">  Speed, Practice, Daily,</text>
+<text name="help-16" fontSize="8" color="#ffcc00" textAlign="left">  Zen, Gravity Flip, Hardcore</text>
+<text name="btn-help-back" fontSize="12" color="#aaaaaa" backgroundColor="#222222" backgroundOpacity="0.8" borderRadius="5" padding="6" textAlign="center" hover={{ backgroundColor: '#444444' }} cursor="pointer">BACK</text>

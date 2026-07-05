@@ -1,0 +1,4 @@
+<text name="pause-title" fontSize="20" fontWeight="bold" color="#ffcc00" textAlign="center">PAUSED</text>
+<text name="btn-resume" fontSize="14" color="#00ffff" backgroundColor="#003333" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#005555' }} cursor="pointer">RESUME</text>
+<text name="btn-restart" fontSize="14" color="#ff8800" backgroundColor="#331100" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#553300' }} cursor="pointer">RESTART</text>
+<text name="btn-quit" fontSize="14" color="#ff4444" backgroundColor="#330000" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#550000' }} cursor="pointer">QUIT</text>

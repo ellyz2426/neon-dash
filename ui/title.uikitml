@@ -1,0 +1,11 @@
+<text name="title-label" fontSize="28" fontWeight="bold" color="#00ffff" textAlign="center">NEON DASH</text>
+<text name="subtitle" fontSize="10" color="#88cccc" textAlign="center">Auto-Runner Platformer</text>
+<text name="level-display" fontSize="9" color="#ffcc00" textAlign="center">Level 1</text>
+<text name="btn-play" fontSize="14" color="#00ffff" backgroundColor="#003333" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#005555' }} cursor="pointer">PLAY</text>
+<text name="btn-modes" fontSize="14" color="#00ff88" backgroundColor="#003322" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#005544' }} cursor="pointer">MODES</text>
+<text name="btn-scores" fontSize="14" color="#ffcc00" backgroundColor="#332200" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#554400' }} cursor="pointer">SCORES</text>
+<text name="btn-achievements" fontSize="14" color="#ff8800" backgroundColor="#331100" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#553300' }} cursor="pointer">ACHIEVEMENTS</text>
+<text name="btn-stats" fontSize="14" color="#88ff00" backgroundColor="#223300" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#445500' }} cursor="pointer">STATS</text>
+<text name="btn-skins" fontSize="14" color="#ff00ff" backgroundColor="#330033" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#550055' }} cursor="pointer">SKINS</text>
+<text name="btn-settings" fontSize="14" color="#8888ff" backgroundColor="#222244" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#444466' }} cursor="pointer">SETTINGS</text>
+<text name="btn-help" fontSize="14" color="#aaaaaa" backgroundColor="#222222" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#444444' }} cursor="pointer">HELP</text>

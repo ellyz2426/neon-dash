@@ -1,0 +1,14 @@
+<text name="set-title" fontSize="18" fontWeight="bold" color="#8888ff" textAlign="center">SETTINGS</text>
+<text name="set-master" fontSize="10" color="#88cccc" textAlign="center">Master: 100%</text>
+<text name="btn-master-up" fontSize="10" color="#00ffff" backgroundColor="#003333" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#005555' }} cursor="pointer">+</text>
+<text name="btn-master-dn" fontSize="10" color="#00ffff" backgroundColor="#003333" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#005555' }} cursor="pointer">-</text>
+<text name="set-sfx" fontSize="10" color="#88cccc" textAlign="center">SFX: 100%</text>
+<text name="btn-sfx-up" fontSize="10" color="#00ffff" backgroundColor="#003333" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#005555' }} cursor="pointer">+</text>
+<text name="btn-sfx-dn" fontSize="10" color="#00ffff" backgroundColor="#003333" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#005555' }} cursor="pointer">-</text>
+<text name="set-music" fontSize="10" color="#88cccc" textAlign="center">Music: 100%</text>
+<text name="btn-music-up" fontSize="10" color="#00ffff" backgroundColor="#003333" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#005555' }} cursor="pointer">+</text>
+<text name="btn-music-dn" fontSize="10" color="#00ffff" backgroundColor="#003333" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#005555' }} cursor="pointer">-</text>
+<text name="set-theme" fontSize="10" color="#88cccc" textAlign="center">Theme: Neon Holodeck</text>
+<text name="btn-theme-prev" fontSize="10" color="#00ffff" backgroundColor="#003333" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#005555' }} cursor="pointer"><</text>
+<text name="btn-theme-next" fontSize="10" color="#00ffff" backgroundColor="#003333" backgroundOpacity="0.8" borderRadius="4" padding="4" textAlign="center" hover={{ backgroundColor: '#005555' }} cursor="pointer">></text>
+<text name="btn-set-back" fontSize="12" color="#aaaaaa" backgroundColor="#222222" backgroundOpacity="0.8" borderRadius="5" padding="6" textAlign="center" hover={{ backgroundColor: '#444444' }} cursor="pointer">BACK</text>

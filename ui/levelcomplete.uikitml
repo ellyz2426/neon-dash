@@ -1,0 +1,9 @@
+<text name="lc-title" fontSize="20" fontWeight="bold" color="#00ff88" textAlign="center">LEVEL COMPLETE!</text>
+<text name="lc-level" fontSize="12" color="#88cccc" textAlign="center">Level 1</text>
+<text name="lc-score" fontSize="14" color="#00ffff" textAlign="center">Score: 0</text>
+<text name="lc-attempts" fontSize="10" color="#ff8800" textAlign="center">Attempts: 1</text>
+<text name="lc-time" fontSize="10" color="#ffcc00" textAlign="center">Time: 0:00</text>
+<text name="lc-stars" fontSize="14" color="#ffcc00" textAlign="center">* * *</text>
+<text name="btn-next" fontSize="14" color="#00ff88" backgroundColor="#003322" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#005544' }} cursor="pointer">NEXT LEVEL</text>
+<text name="btn-lc-retry" fontSize="14" color="#ff8800" backgroundColor="#331100" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#553300' }} cursor="pointer">RETRY</text>
+<text name="btn-lc-menu" fontSize="14" color="#aaaaaa" backgroundColor="#222222" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#444444' }} cursor="pointer">MENU</text>

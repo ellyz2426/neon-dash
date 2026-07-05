@@ -1,0 +1,10 @@
+<text name="mode-title" fontSize="18" fontWeight="bold" color="#00ffcc" textAlign="center">SELECT MODE</text>
+<text name="btn-campaign" fontSize="12" color="#00ffff" backgroundColor="#003333" backgroundOpacity="0.8" borderRadius="5" padding="6" textAlign="center" hover={{ backgroundColor: '#005555' }} cursor="pointer">CAMPAIGN</text>
+<text name="btn-endless" fontSize="12" color="#ff8800" backgroundColor="#331100" backgroundOpacity="0.8" borderRadius="5" padding="6" textAlign="center" hover={{ backgroundColor: '#553300' }} cursor="pointer">ENDLESS</text>
+<text name="btn-speed" fontSize="12" color="#ff0088" backgroundColor="#330022" backgroundOpacity="0.8" borderRadius="5" padding="6" textAlign="center" hover={{ backgroundColor: '#550044' }} cursor="pointer">SPEED RUN</text>
+<text name="btn-practice" fontSize="12" color="#88ff00" backgroundColor="#223300" backgroundOpacity="0.8" borderRadius="5" padding="6" textAlign="center" hover={{ backgroundColor: '#445500' }} cursor="pointer">PRACTICE</text>
+<text name="btn-daily" fontSize="12" color="#ffcc00" backgroundColor="#332200" backgroundOpacity="0.8" borderRadius="5" padding="6" textAlign="center" hover={{ backgroundColor: '#554400' }} cursor="pointer">DAILY CHALLENGE</text>
+<text name="btn-zen" fontSize="12" color="#00ff88" backgroundColor="#003322" backgroundOpacity="0.8" borderRadius="5" padding="6" textAlign="center" hover={{ backgroundColor: '#005544' }} cursor="pointer">ZEN</text>
+<text name="btn-gravity" fontSize="12" color="#8800ff" backgroundColor="#220044" backgroundOpacity="0.8" borderRadius="5" padding="6" textAlign="center" hover={{ backgroundColor: '#440066' }} cursor="pointer">GRAVITY FLIP</text>
+<text name="btn-hardcore" fontSize="12" color="#ff0000" backgroundColor="#330000" backgroundOpacity="0.8" borderRadius="5" padding="6" textAlign="center" hover={{ backgroundColor: '#550000' }} cursor="pointer">HARDCORE</text>
+<text name="btn-modes-back" fontSize="12" color="#aaaaaa" backgroundColor="#222222" backgroundOpacity="0.8" borderRadius="5" padding="6" textAlign="center" hover={{ backgroundColor: '#444444' }} cursor="pointer">BACK</text>

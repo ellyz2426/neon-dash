@@ -1,0 +1,8 @@
+<text name="go-title" fontSize="20" fontWeight="bold" color="#ff4444" textAlign="center">CRASH!</text>
+<text name="go-mode" fontSize="10" color="#88cccc" textAlign="center">Campaign</text>
+<text name="go-score" fontSize="14" color="#00ffff" textAlign="center">Score: 0</text>
+<text name="go-progress" fontSize="12" color="#ffcc00" textAlign="center">Progress: 0%</text>
+<text name="go-attempts" fontSize="10" color="#ff8800" textAlign="center">Attempts: 1</text>
+<text name="go-best" fontSize="10" color="#88ff00" textAlign="center">Best: 0%</text>
+<text name="btn-retry" fontSize="14" color="#00ffff" backgroundColor="#003333" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#005555' }} cursor="pointer">RETRY</text>
+<text name="btn-go-menu" fontSize="14" color="#aaaaaa" backgroundColor="#222222" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#444444' }} cursor="pointer">MENU</text>

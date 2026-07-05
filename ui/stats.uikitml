@@ -1,0 +1,12 @@
+<text name="stats-title" fontSize="18" fontWeight="bold" color="#88ff00" textAlign="center">STATS</text>
+<text name="stat-1" fontSize="9" color="#88cccc" textAlign="left">Games Played: 0</text>
+<text name="stat-2" fontSize="9" color="#88cccc" textAlign="left">Total Jumps: 0</text>
+<text name="stat-3" fontSize="9" color="#88cccc" textAlign="left">Total Score: 0</text>
+<text name="stat-4" fontSize="9" color="#88cccc" textAlign="left">Best Score: 0</text>
+<text name="stat-5" fontSize="9" color="#88cccc" textAlign="left">Levels Cleared: 0</text>
+<text name="stat-6" fontSize="9" color="#88cccc" textAlign="left">Best Streak: 0</text>
+<text name="stat-7" fontSize="9" color="#88cccc" textAlign="left">Total Flips: 0</text>
+<text name="stat-8" fontSize="9" color="#88cccc" textAlign="left">Total Orbs: 0</text>
+<text name="stat-9" fontSize="9" color="#88cccc" textAlign="left">Play Time: 0:00</text>
+<text name="stat-10" fontSize="9" color="#88cccc" textAlign="left">Level: 1</text>
+<text name="btn-stats-back" fontSize="12" color="#aaaaaa" backgroundColor="#222222" backgroundOpacity="0.8" borderRadius="5" padding="6" textAlign="center" hover={{ backgroundColor: '#444444' }} cursor="pointer">BACK</text>

@@ -1,0 +1,5 @@
+<text name="diff-title" fontSize="18" fontWeight="bold" color="#00ffcc" textAlign="center">DIFFICULTY</text>
+<text name="btn-easy" fontSize="14" color="#00ff88" backgroundColor="#003322" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#005544' }} cursor="pointer">EASY</text>
+<text name="btn-medium" fontSize="14" color="#ffcc00" backgroundColor="#332200" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#554400' }} cursor="pointer">MEDIUM</text>
+<text name="btn-hard" fontSize="14" color="#ff4400" backgroundColor="#331100" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#553300' }} cursor="pointer">HARD</text>
+<text name="btn-diff-back" fontSize="14" color="#aaaaaa" backgroundColor="#222222" backgroundOpacity="0.8" borderRadius="6" padding="8" textAlign="center" hover={{ backgroundColor: '#444444' }} cursor="pointer">BACK</text>
