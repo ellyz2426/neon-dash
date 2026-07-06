@@ -1,0 +1,223 @@
+{
+  "element": {
+    "type": "container",
+    "sourceTag": "div",
+    "children": [
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "CRASH!"
+        ],
+        "properties": {
+          "name": "go-title",
+          "fontsize": "20",
+          "fontweight": "bold",
+          "color": "#ff4444",
+          "textalign": "center"
+        },
+        "dataUid": "uid-1"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Campaign"
+        ],
+        "properties": {
+          "name": "go-mode",
+          "fontsize": "10",
+          "color": "#88cccc",
+          "textalign": "center"
+        },
+        "dataUid": "uid-2"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Score: 0"
+        ],
+        "properties": {
+          "name": "go-score",
+          "fontsize": "14",
+          "color": "#00ffff",
+          "textalign": "center"
+        },
+        "dataUid": "uid-3"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Progress: 0%"
+        ],
+        "properties": {
+          "name": "go-progress",
+          "fontsize": "12",
+          "color": "#ffcc00",
+          "textalign": "center"
+        },
+        "dataUid": "uid-4"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Attempts: 1"
+        ],
+        "properties": {
+          "name": "go-attempts",
+          "fontsize": "10",
+          "color": "#ff8800",
+          "textalign": "center"
+        },
+        "dataUid": "uid-5"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Best: 0%"
+        ],
+        "properties": {
+          "name": "go-best",
+          "fontsize": "10",
+          "color": "#88ff00",
+          "textalign": "center"
+        },
+        "dataUid": "uid-6"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "RETRY"
+        ],
+        "properties": {
+          "name": "btn-retry",
+          "fontsize": "14",
+          "color": "#00ffff",
+          "backgroundcolor": "#003333",
+          "backgroundopacity": "0.8",
+          "borderradius": "6",
+          "padding": "8",
+          "textalign": "center",
+          "hover": "{{",
+          "backgroundcolor:": "",
+          "'#005555'": "",
+          "}}": "",
+          "cursor": "pointer"
+        },
+        "dataUid": "uid-7"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "MENU"
+        ],
+        "properties": {
+          "name": "btn-go-menu",
+          "fontsize": "14",
+          "color": "#aaaaaa",
+          "backgroundcolor": "#222222",
+          "backgroundopacity": "0.8",
+          "borderradius": "6",
+          "padding": "8",
+          "textalign": "center",
+          "hover": "{{",
+          "backgroundcolor:": "",
+          "'#444444'": "",
+          "}}": "",
+          "cursor": "pointer"
+        },
+        "dataUid": "uid-8"
+      }
+    ],
+    "properties": {}
+  },
+  "classes": {},
+  "ranges": {
+    "uid-1": {
+      "start": {
+        "line": 0,
+        "column": 0
+      },
+      "end": {
+        "line": 0,
+        "column": 102
+      }
+    },
+    "uid-2": {
+      "start": {
+        "line": 1,
+        "column": 0
+      },
+      "end": {
+        "line": 1,
+        "column": 85
+      }
+    },
+    "uid-3": {
+      "start": {
+        "line": 2,
+        "column": 0
+      },
+      "end": {
+        "line": 2,
+        "column": 86
+      }
+    },
+    "uid-4": {
+      "start": {
+        "line": 3,
+        "column": 0
+      },
+      "end": {
+        "line": 3,
+        "column": 93
+      }
+    },
+    "uid-5": {
+      "start": {
+        "line": 4,
+        "column": 0
+      },
+      "end": {
+        "line": 4,
+        "column": 92
+      }
+    },
+    "uid-6": {
+      "start": {
+        "line": 5,
+        "column": 0
+      },
+      "end": {
+        "line": 5,
+        "column": 85
+      }
+    },
+    "uid-7": {
+      "start": {
+        "line": 6,
+        "column": 0
+      },
+      "end": {
+        "line": 6,
+        "column": 219
+      }
+    },
+    "uid-8": {
+      "start": {
+        "line": 7,
+        "column": 0
+      },
+      "end": {
+        "line": 7,
+        "column": 220
+      }
+    }
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "element": {
+    "type": "container",
+    "sourceTag": "div",
+    "children": [
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "STATS"
+        ],
+        "properties": {
+          "name": "stats-title",
+          "fontsize": "18",
+          "fontweight": "bold",
+          "color": "#88ff00",
+          "textalign": "center"
+        },
+        "dataUid": "uid-1"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Games Played: 0"
+        ],
+        "properties": {
+          "name": "stat-1",
+          "fontsize": "9",
+          "color": "#88cccc",
+          "textalign": "left"
+        },
+        "dataUid": "uid-2"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Total Jumps: 0"
+        ],
+        "properties": {
+          "name": "stat-2",
+          "fontsize": "9",
+          "color": "#88cccc",
+          "textalign": "left"
+        },
+        "dataUid": "uid-3"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Total Score: 0"
+        ],
+        "properties": {
+          "name": "stat-3",
+          "fontsize": "9",
+          "color": "#88cccc",
+          "textalign": "left"
+        },
+        "dataUid": "uid-4"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Best Score: 0"
+        ],
+        "properties": {
+          "name": "stat-4",
+          "fontsize": "9",
+          "color": "#88cccc",
+          "textalign": "left"
+        },
+        "dataUid": "uid-5"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Levels Cleared: 0"
+        ],
+        "properties": {
+          "name": "stat-5",
+          "fontsize": "9",
+          "color": "#88cccc",
+          "textalign": "left"
+        },
+        "dataUid": "uid-6"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Best Streak: 0"
+        ],
+        "properties": {
+          "name": "stat-6",
+          "fontsize": "9",
+          "color": "#88cccc",
+          "textalign": "left"
+        },
+        "dataUid": "uid-7"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Total Flips: 0"
+        ],
+        "properties": {
+          "name": "stat-7",
+          "fontsize": "9",
+          "color": "#88cccc",
+          "textalign": "left"
+        },
+        "dataUid": "uid-8"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Total Orbs: 0"
+        ],
+        "properties": {
+          "name": "stat-8",
+          "fontsize": "9",
+          "color": "#88cccc",
+          "textalign": "left"
+        },
+        "dataUid": "uid-9"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Play Time: 0:00"
+        ],
+        "properties": {
+          "name": "stat-9",
+          "fontsize": "9",
+          "color": "#88cccc",
+          "textalign": "left"
+        },
+        "dataUid": "uid-10"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Level: 1"
+        ],
+        "properties": {
+          "name": "stat-10",
+          "fontsize": "9",
+          "color": "#88cccc",
+          "textalign": "left"
+        },
+        "dataUid": "uid-11"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "BACK"
+        ],
+        "properties": {
+          "name": "btn-stats-back",
+          "fontsize": "12",
+          "color": "#aaaaaa",
+          "backgroundcolor": "#222222",
+          "backgroundopacity": "0.8",
+          "borderradius": "5",
+          "padding": "6",
+          "textalign": "center",
+          "hover": "{{",
+          "backgroundcolor:": "",
+          "'#444444'": "",
+          "}}": "",
+          "cursor": "pointer"
+        },
+        "dataUid": "uid-12"
+      }
+    ],
+    "properties": {}
+  },
+  "classes": {},
+  "ranges": {
+    "uid-1": {
+      "start": {
+        "line": 0,
+        "column": 0
+      },
+      "end": {
+        "line": 0,
+        "column": 104
+      }
+    },
+    "uid-2": {
+      "start": {
+        "line": 1,
+        "column": 0
+      },
+      "end": {
+        "line": 1,
+        "column": 88
+      }
+    },
+    "uid-3": {
+      "start": {
+        "line": 2,
+        "column": 0
+      },
+      "end": {
+        "line": 2,
+        "column": 87
+      }
+    },
+    "uid-4": {
+      "start": {
+        "line": 3,
+        "column": 0
+      },
+      "end": {
+        "line": 3,
+        "column": 87
+      }
+    },
+    "uid-5": {
+      "start": {
+        "line": 4,
+        "column": 0
+      },
+      "end": {
+        "line": 4,
+        "column": 86
+      }
+    },
+    "uid-6": {
+      "start": {
+        "line": 5,
+        "column": 0
+      },
+      "end": {
+        "line": 5,
+        "column": 90
+      }
+    },
+    "uid-7": {
+      "start": {
+        "line": 6,
+        "column": 0
+      },
+      "end": {
+        "line": 6,
+        "column": 87
+      }
+    },
+    "uid-8": {
+      "start": {
+        "line": 7,
+        "column": 0
+      },
+      "end": {
+        "line": 7,
+        "column": 87
+      }
+    },
+    "uid-9": {
+      "start": {
+        "line": 8,
+        "column": 0
+      },
+      "end": {
+        "line": 8,
+        "column": 86
+      }
+    },
+    "uid-10": {
+      "start": {
+        "line": 9,
+        "column": 0
+      },
+      "end": {
+        "line": 9,
+        "column": 88
+      }
+    },
+    "uid-11": {
+      "start": {
+        "line": 10,
+        "column": 0
+      },
+      "end": {
+        "line": 10,
+        "column": 82
+      }
+    },
+    "uid-12": {
+      "start": {
+        "line": 11,
+        "column": 0
+      },
+      "end": {
+        "line": 11,
+        "column": 223
+      }
+    }
+  }
+}

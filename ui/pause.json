@@ -1,0 +1,136 @@
+{
+  "element": {
+    "type": "container",
+    "sourceTag": "div",
+    "children": [
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "PAUSED"
+        ],
+        "properties": {
+          "name": "pause-title",
+          "fontsize": "20",
+          "fontweight": "bold",
+          "color": "#ffcc00",
+          "textalign": "center"
+        },
+        "dataUid": "uid-1"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "RESUME"
+        ],
+        "properties": {
+          "name": "btn-resume",
+          "fontsize": "14",
+          "color": "#00ffff",
+          "backgroundcolor": "#003333",
+          "backgroundopacity": "0.8",
+          "borderradius": "6",
+          "padding": "8",
+          "textalign": "center",
+          "hover": "{{",
+          "backgroundcolor:": "",
+          "'#005555'": "",
+          "}}": "",
+          "cursor": "pointer"
+        },
+        "dataUid": "uid-2"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "RESTART"
+        ],
+        "properties": {
+          "name": "btn-restart",
+          "fontsize": "14",
+          "color": "#ff8800",
+          "backgroundcolor": "#331100",
+          "backgroundopacity": "0.8",
+          "borderradius": "6",
+          "padding": "8",
+          "textalign": "center",
+          "hover": "{{",
+          "backgroundcolor:": "",
+          "'#553300'": "",
+          "}}": "",
+          "cursor": "pointer"
+        },
+        "dataUid": "uid-3"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "QUIT"
+        ],
+        "properties": {
+          "name": "btn-quit",
+          "fontsize": "14",
+          "color": "#ff4444",
+          "backgroundcolor": "#330000",
+          "backgroundopacity": "0.8",
+          "borderradius": "6",
+          "padding": "8",
+          "textalign": "center",
+          "hover": "{{",
+          "backgroundcolor:": "",
+          "'#550000'": "",
+          "}}": "",
+          "cursor": "pointer"
+        },
+        "dataUid": "uid-4"
+      }
+    ],
+    "properties": {}
+  },
+  "classes": {},
+  "ranges": {
+    "uid-1": {
+      "start": {
+        "line": 0,
+        "column": 0
+      },
+      "end": {
+        "line": 0,
+        "column": 105
+      }
+    },
+    "uid-2": {
+      "start": {
+        "line": 1,
+        "column": 0
+      },
+      "end": {
+        "line": 1,
+        "column": 221
+      }
+    },
+    "uid-3": {
+      "start": {
+        "line": 2,
+        "column": 0
+      },
+      "end": {
+        "line": 2,
+        "column": 223
+      }
+    },
+    "uid-4": {
+      "start": {
+        "line": 3,
+        "column": 0
+      },
+      "end": {
+        "line": 3,
+        "column": 217
+      }
+    }
+  }
+}

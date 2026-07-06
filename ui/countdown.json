@@ -1,0 +1,30 @@
+{
+  "element": {
+    "sourceTag": "text",
+    "type": "custom",
+    "children": [
+      "3"
+    ],
+    "properties": {
+      "name": "countdown-text",
+      "fontsize": "36",
+      "fontweight": "bold",
+      "color": "#00ffff",
+      "textalign": "center"
+    },
+    "dataUid": "uid-1"
+  },
+  "classes": {},
+  "ranges": {
+    "uid-1": {
+      "start": {
+        "line": 0,
+        "column": 0
+      },
+      "end": {
+        "line": 0,
+        "column": 103
+      }
+    }
+  }
+}

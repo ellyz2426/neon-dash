@@ -1,0 +1,30 @@
+{
+  "element": {
+    "sourceTag": "text",
+    "type": "custom",
+    "children": [
+      "Achievement!"
+    ],
+    "properties": {
+      "name": "toast-text",
+      "fontsize": "12",
+      "fontweight": "bold",
+      "color": "#ffcc00",
+      "textalign": "center"
+    },
+    "dataUid": "uid-1"
+  },
+  "classes": {},
+  "ranges": {
+    "uid-1": {
+      "start": {
+        "line": 0,
+        "column": 0
+      },
+      "end": {
+        "line": 0,
+        "column": 110
+      }
+    }
+  }
+}

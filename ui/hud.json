@@ -1,0 +1,133 @@
+{
+  "element": {
+    "type": "container",
+    "sourceTag": "div",
+    "children": [
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Score: 0"
+        ],
+        "properties": {
+          "name": "hud-score",
+          "fontsize": "12",
+          "fontweight": "bold",
+          "color": "#00ffff",
+          "textalign": "left"
+        },
+        "dataUid": "uid-1"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "0%"
+        ],
+        "properties": {
+          "name": "hud-progress",
+          "fontsize": "10",
+          "color": "#ffcc00",
+          "textalign": "center"
+        },
+        "dataUid": "uid-2"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Attempt: 1"
+        ],
+        "properties": {
+          "name": "hud-attempts",
+          "fontsize": "10",
+          "color": "#ff8800",
+          "textalign": "right"
+        },
+        "dataUid": "uid-3"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Campaign"
+        ],
+        "properties": {
+          "name": "hud-mode",
+          "fontsize": "8",
+          "color": "#88cccc",
+          "textalign": "left"
+        },
+        "dataUid": "uid-4"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Level 1"
+        ],
+        "properties": {
+          "name": "hud-level",
+          "fontsize": "8",
+          "color": "#88cccc",
+          "textalign": "right"
+        },
+        "dataUid": "uid-5"
+      }
+    ],
+    "properties": {}
+  },
+  "classes": {},
+  "ranges": {
+    "uid-1": {
+      "start": {
+        "line": 0,
+        "column": 0
+      },
+      "end": {
+        "line": 0,
+        "column": 103
+      }
+    },
+    "uid-2": {
+      "start": {
+        "line": 1,
+        "column": 0
+      },
+      "end": {
+        "line": 1,
+        "column": 84
+      }
+    },
+    "uid-3": {
+      "start": {
+        "line": 2,
+        "column": 0
+      },
+      "end": {
+        "line": 2,
+        "column": 91
+      }
+    },
+    "uid-4": {
+      "start": {
+        "line": 3,
+        "column": 0
+      },
+      "end": {
+        "line": 3,
+        "column": 83
+      }
+    },
+    "uid-5": {
+      "start": {
+        "line": 4,
+        "column": 0
+      },
+      "end": {
+        "line": 4,
+        "column": 84
+      }
+    }
+  }
+}
